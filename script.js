@@ -1,4 +1,4 @@
-const GAS_API_URL = "https://script.google.com/macros/s/AKfycbzfK8pWpcK8OLO640KlLJiI9N-JkBSiauyWIGQWY2_lw8t2Vy82doRn1CndPv3VgUsm/exec";
+const GAS_API_URL = "https://script.google.com/macros/s/AKfycbySRUSmk4Hkf-tt7hwuChCDA_wst-O1bFgHnTNWJlWAN1lf_-x3RsvRuxoEoZTBCArv/exec";
 
 document.addEventListener("DOMContentLoaded", function () {
     fetchLinks();
